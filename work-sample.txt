@@ -9,3 +9,4 @@ chmod 400 "srees-pem.pem"
 4. Connect to your instance using its Public DNS
 
 ssh -i "srees-pem.pem" ec2-user@ec2-3-111-37-11.ap-south-1.compute.amazonaws.com
+zjknjkxbkjzzbdj 
