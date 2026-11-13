@@ -1,0 +1,14 @@
+[root@ip-172-31-4-78 infra-ops-dev-repo]# git tag v1.0
+[root@ip-172-31-4-78 infra-ops-dev-repo]# git tag stable-version-q2
+[root@ip-172-31-4-78 infra-ops-dev-repo]# git tag -l
+Z1.0
+stable-version-q2
+v1.0
+[root@ip-172-31-4-78 infra-ops-dev-repo]# git push -f origin --tags
+Username for 'https://github.com': Sri951dhar
+Password for 'https://Sri951dhar@github.com': 
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/Sri951dhar/infra-ops-dev-repo.git
+ * [new tag]         stable-version-q2 -> stable-version-q2
+ * [new tag]         v1.0 -> v1.0
+[root@ip-172-31-4-78 infra-ops-dev-repo]# git branch
