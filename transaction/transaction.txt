@@ -1,0 +1,19 @@
+Connect to Linux instance Info
+Connect to an instance to test, troubleshoot, deploy code, update software etc. You can use browser based methods or an SSH client.
+
+Instance info
+Instance
+i-0d16ac7102f326f85 (Git-Machine)
+State: Running
+
+Status: 0/2 checks passed
+VPC 
+vpc-0ddd3c20f515a4fcd
+Subnet 
+subnet-036cda5a6fb8b3f4e
+Security groups 
+sg-006b7a1f68a0b4ae5 (launch-wizard-1)
+
+In web browser
+
+In SSH client
